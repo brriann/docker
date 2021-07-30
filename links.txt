@@ -1,0 +1,8 @@
+
+https://training.play-with-docker.com/windows-containers-setup/
+https://hackernoon.com/how-to-dockerize-any-application-b60ad00e76da
+https://training.play-with-docker.com/nodejs-live-debugging/
+https://docs.docker.com/develop/
+https://docs.docker.com/engine/reference/builder/
+https://docs.docker.com/compose/aspnet-mssql-compose/
+docs.docker.com/registry
