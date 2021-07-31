@@ -6,3 +6,9 @@ https://docs.docker.com/develop/
 https://docs.docker.com/engine/reference/builder/
 https://docs.docker.com/compose/aspnet-mssql-compose/
 docs.docker.com/registry
+
+https://docs.docker.com/compose/networking/
+https://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/
+https://www.freecodecamp.org/news/the-easy-way-to-set-up-docker-on-a-raspberry-pi-7d24ced073ef/
+https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash
+https://docs.docker.com/docker-for-windows/wsl/
